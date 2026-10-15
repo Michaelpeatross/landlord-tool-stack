@@ -1,0 +1,104 @@
+[
+ {
+  "name": "BiggerPockets",
+  "cat": "Education & Community",
+  "desc": "Investor community, calculators and podcasts",
+  "url": "https://www.biggerpockets.com"
+ },
+ {
+  "name": "DealCheck",
+  "cat": "Deal Analysis",
+  "desc": "Rental and flip deal analyzer",
+  "url": "https://dealcheck.io"
+ },
+ {
+  "name": "Mashvisor",
+  "cat": "Deal Analysis",
+  "desc": "Rental and Airbnb market data",
+  "url": "https://www.mashvisor.com"
+ },
+ {
+  "name": "AirDNA",
+  "cat": "Short-Term Rentals",
+  "desc": "STR market analytics",
+  "url": "https://www.airdna.co"
+ },
+ {
+  "name": "PropStream",
+  "cat": "Leads & Data",
+  "desc": "Property data and lead lists",
+  "url": "https://www.propstream.com"
+ },
+ {
+  "name": "DealMachine",
+  "cat": "Leads & Data",
+  "desc": "Driving for dollars and outreach",
+  "url": "https://www.dealmachine.com"
+ },
+ {
+  "name": "BatchLeads",
+  "cat": "Leads & Data",
+  "desc": "Lead lists and skip tracing",
+  "url": "https://batchleads.io"
+ },
+ {
+  "name": "Baselane",
+  "cat": "Banking & Accounting",
+  "desc": "Banking and bookkeeping for landlords",
+  "url": "https://www.baselane.com"
+ },
+ {
+  "name": "Stessa",
+  "cat": "Banking & Accounting",
+  "desc": "Rental property accounting",
+  "url": "https://www.stessa.com"
+ },
+ {
+  "name": "TurboTenant",
+  "cat": "Property Management",
+  "desc": "Free landlord software",
+  "url": "https://www.turbotenant.com"
+ },
+ {
+  "name": "RentRedi",
+  "cat": "Property Management",
+  "desc": "Rent collection and tenant screening",
+  "url": "https://rentredi.com"
+ },
+ {
+  "name": "Buildium",
+  "cat": "Property Management",
+  "desc": "Property management software",
+  "url": "https://www.buildium.com"
+ },
+ {
+  "name": "AppFolio",
+  "cat": "Property Management",
+  "desc": "PM software for larger portfolios",
+  "url": "https://www.appfolio.com"
+ },
+ {
+  "name": "Avail",
+  "cat": "Property Management",
+  "desc": "Listings, screening and leases",
+  "url": "https://www.avail.co"
+ },
+ {
+  "name": "Hospitable",
+  "cat": "Short-Term Rentals",
+  "desc": "STR automation and messaging",
+  "url": "https://hospitable.com"
+ },
+ {
+  "name": "PriceLabs",
+  "cat": "Short-Term Rentals",
+  "desc": "Dynamic pricing for STRs",
+  "url": "https://hello.pricelabs.co"
+ },
+ {
+  "name": "Rentometer",
+  "cat": "Deal Analysis",
+  "desc": "Rent comps by address",
+  "url": "https://www.rentometer.com"
+ }
+]
